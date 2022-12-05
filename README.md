@@ -1,3 +1,3 @@
-# docker-devmongo
+# docker-mongo
 
 Dockerized MongoDB for development.
